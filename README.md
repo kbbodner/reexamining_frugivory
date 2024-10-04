@@ -1,7 +1,7 @@
 ## Overview
 
 This repository contains the data and R code necessary to run the analyses and produce the figures for the 
-**Letter**, "Re-examining evidence for birds optimizing fruit size near their geographic limits". This **Letter** is a response to the previously published *Science* article, ["Birds optimize fruit size consumed near their geographic range limits"](https://www.science.org/doi/10.1126/science.adj1856) (Martins et al. 2024).
+*Letter*, "Re-examining evidence for birds optimizing fruit size near their geographic limits". This *Letter* is a response to the previously published *Science* article, ["Birds optimize fruit size consumed near their geographic range limits"](https://www.science.org/doi/10.1126/science.adj1856) (Martins et al. 2024).
 
 ## Getting Started
 The project includes one R script, ***model_evaluation.R*** and one R data file, ***dataframe_gape_scaled.RData***.
